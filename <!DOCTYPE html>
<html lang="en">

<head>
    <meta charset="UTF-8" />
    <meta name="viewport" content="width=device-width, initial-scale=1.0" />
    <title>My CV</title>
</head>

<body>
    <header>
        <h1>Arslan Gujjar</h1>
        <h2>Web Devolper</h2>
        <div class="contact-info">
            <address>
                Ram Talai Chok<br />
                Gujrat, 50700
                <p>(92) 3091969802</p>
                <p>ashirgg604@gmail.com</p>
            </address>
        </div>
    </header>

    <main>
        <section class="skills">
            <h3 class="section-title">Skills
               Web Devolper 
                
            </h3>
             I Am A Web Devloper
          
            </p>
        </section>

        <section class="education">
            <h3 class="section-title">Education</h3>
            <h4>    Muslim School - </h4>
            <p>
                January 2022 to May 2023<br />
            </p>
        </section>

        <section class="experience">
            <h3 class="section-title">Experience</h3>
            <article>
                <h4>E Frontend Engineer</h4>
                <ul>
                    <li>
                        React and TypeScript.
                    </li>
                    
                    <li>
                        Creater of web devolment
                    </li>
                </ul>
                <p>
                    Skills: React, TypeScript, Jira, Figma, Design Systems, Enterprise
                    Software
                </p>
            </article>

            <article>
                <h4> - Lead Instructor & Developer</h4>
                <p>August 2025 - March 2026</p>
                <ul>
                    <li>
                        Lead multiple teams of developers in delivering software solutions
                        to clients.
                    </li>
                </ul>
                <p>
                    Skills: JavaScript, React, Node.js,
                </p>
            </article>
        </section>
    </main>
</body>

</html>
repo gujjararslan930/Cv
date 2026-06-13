@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My CV</title>
+</head>
+
+<body>
+    <header>
+        <h1>Arslan Gujjar</h1>
+        <h2>Web Devolper</h2>
+        <div class="contact-info">
+            <address>
+                Ram Talai Chok<br />
+                Gujrat, 50700
+                <p>(92) 3091969802</p>
+                <p>ashirgg604@gmail.com</p>
+            </address>
+        </div>
+    </header>
+
+    <main>
+        <section class="skills">
+            <h3 class="section-title">Skills
+               Web Devolper 
+                
+            </h3>
+             I Am A Web Devloper
+          
+            </p>
+        </section>
+
+        <section class="education">
+            <h3 class="section-title">Education</h3>
+            <h4>    Muslim School - </h4>
+            <p>
+                January 2022 to May 2023<br />
+            </p>
+        </section>
+
+        <section class="experience">
+            <h3 class="section-title">Experience</h3>
+            <article>
+                <h4>E Frontend Engineer</h4>
+                <ul>
+                    <li>
+                        React and TypeScript.
+                    </li>
+                    
+                    <li>
+                        Creater of web devolment
+                    </li>
+                </ul>
+                <p>
+                    Skills: React, TypeScript, Jira, Figma, Design Systems, Enterprise
+                    Software
+                </p>
+            </article>
+
+            <article>
+                <h4> - Lead Instructor & Developer</h4>
+                <p>August 2025 - March 2026</p>
+                <ul>
+                    <li>
+                        Lead multiple teams of developers in delivering software solutions
+                        to clients.
+                    </li>
+                </ul>
+                <p>
+                    Skills: JavaScript, React, Node.js,
+                </p>
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
